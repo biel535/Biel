@@ -12,7 +12,7 @@ import { Oferta2Component } from './components/oferta2/oferta2.component';
 
 const routes: Routes = [
   {
-    path: '/Biel/',
+    path: '/',
     component: HomeComponent,
   },
   {
